@@ -1,3 +1,4 @@
 /config.py
-/__pycahe__/
+/__pycache__/
 /raw_data/
+/logs/
